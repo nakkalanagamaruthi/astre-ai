@@ -1,0 +1,9 @@
+{
+  "name": "AstraTravel AI - Immersive Traveler Experience",
+  "description": "A comprehensive travel platform featuring VR destination previews, a Gemini-powered AI travel assistant, real-time safety tracking, and context-aware destination intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
